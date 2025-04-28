@@ -1,0 +1,753 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MUCI//NONSGML USOS API 7.1.1.0-5\, ac660d00 (2025-04-08)//EN
+X-ORIGINAL-URL:https://web.usos.agh.edu.pl/kontroler.php?_action=home/plan
+ &
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:Jan Kalęba - plan zajęć USOS
+X-WR-TIMEZONE:Europe/Warsaw
+BEGIN:VEVENT
+SUMMARY:W - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250428T080000
+DTEND;VALUE=DATE-TIME:20250428T093000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1727579@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149515\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Badania operacyjne
+DTSTART;VALUE=DATE-TIME:20250428T094500
+DTEND;VALUE=DATE-TIME:20250428T111500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1770985@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149382\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Badania operacyjne
+DTSTART;VALUE=DATE-TIME:20250428T164500
+DTEND;VALUE=DATE-TIME:20250428T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1727530@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 1.11\nD-2\n\nhttps://web.usos.agh.edu.pl/kontroler.php?_
+ action=katalog2/przedmioty/pokazZajecia&gr_nr=5&zaj_cyk_id=149610\n
+LOCATION:ul. Reymonta 7a\, 30-059 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250429T150000
+DTEND;VALUE=DATE-TIME:20250429T163000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1773350@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.23\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=9&zaj_cyk_id=149731\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250505T080000
+DTEND;VALUE=DATE-TIME:20250505T093000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1727578@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149515\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Architektura komputerów
+DTSTART;VALUE=DATE-TIME:20250506T094500
+DTEND;VALUE=DATE-TIME:20250506T111500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1769278@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149378\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Pracownia projektowa 1
+DTSTART;VALUE=DATE-TIME:20250506T164500
+DTEND;VALUE=DATE-TIME:20250506T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1781107@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 3.27c\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php
+ ?_action=katalog2/przedmioty/pokazZajecia&gr_nr=8&zaj_cyk_id=149822\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Algorytmy dla problemów trudnych obliczeniowo
+DTSTART;VALUE=DATE-TIME:20250507T094500
+DTEND;VALUE=DATE-TIME:20250507T111500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1769355@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149361\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Systemy wbudowane
+DTSTART;VALUE=DATE-TIME:20250507T164500
+DTEND;VALUE=DATE-TIME:20250507T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1772771@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 3.24\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=3&zaj_cyk_id=149825\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Algorytmy dla problemów trudnych obliczeniowo
+DTSTART;VALUE=DATE-TIME:20250507T183000
+DTEND;VALUE=DATE-TIME:20250507T200000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1867330@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.29\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=7&zaj_cyk_id=149772\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Inżynieria oprogramowania
+DTSTART;VALUE=DATE-TIME:20250508T080000
+DTEND;VALUE=DATE-TIME:20250508T093000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1769399@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149411\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250508T150000
+DTEND;VALUE=DATE-TIME:20250508T163000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1773356@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.23\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=9&zaj_cyk_id=149731\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250512T080000
+DTEND;VALUE=DATE-TIME:20250512T093000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1727577@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149515\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Badania operacyjne
+DTSTART;VALUE=DATE-TIME:20250512T094500
+DTEND;VALUE=DATE-TIME:20250512T111500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1770984@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149382\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Badania operacyjne
+DTSTART;VALUE=DATE-TIME:20250512T164500
+DTEND;VALUE=DATE-TIME:20250512T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1727529@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 1.11\nD-2\n\nhttps://web.usos.agh.edu.pl/kontroler.php?_
+ action=katalog2/przedmioty/pokazZajecia&gr_nr=5&zaj_cyk_id=149610\n
+LOCATION:ul. Reymonta 7a\, 30-059 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Architektura komputerów
+DTSTART;VALUE=DATE-TIME:20250513T094500
+DTEND;VALUE=DATE-TIME:20250513T111500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1769277@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149378\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Inżynieria oprogramowania
+DTSTART;VALUE=DATE-TIME:20250513T150000
+DTEND;VALUE=DATE-TIME:20250513T163000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1771591@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.26B\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php
+ ?_action=katalog2/przedmioty/pokazZajecia&gr_nr=10&zaj_cyk_id=149795\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Przetwarzanie i analiza obrazów cyfrowych
+DTSTART;VALUE=DATE-TIME:20250514T131500
+DTEND;VALUE=DATE-TIME:20250514T144500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1772595@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 112\nC-3\n\nhttps://web.usos.agh.edu.pl/kontroler.php?_a
+ ction=katalog2/przedmioty/pokazZajecia&gr_nr=2&zaj_cyk_id=149707\n
+LOCATION:al. Mickiewicza 30\, 30-059 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Systemy wbudowane
+DTSTART;VALUE=DATE-TIME:20250514T164500
+DTEND;VALUE=DATE-TIME:20250514T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1772770@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 3.24\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=3&zaj_cyk_id=149825\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Algorytmy dla problemów trudnych obliczeniowo
+DTSTART;VALUE=DATE-TIME:20250514T183000
+DTEND;VALUE=DATE-TIME:20250514T200000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1867280@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.29\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=7&zaj_cyk_id=149593\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250515T150000
+DTEND;VALUE=DATE-TIME:20250515T163000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1773355@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.23\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=9&zaj_cyk_id=149731\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250519T080000
+DTEND;VALUE=DATE-TIME:20250519T093000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1727576@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149515\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Architektura komputerów
+DTSTART;VALUE=DATE-TIME:20250520T094500
+DTEND;VALUE=DATE-TIME:20250520T111500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1769276@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149378\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Pracownia projektowa 1
+DTSTART;VALUE=DATE-TIME:20250520T164500
+DTEND;VALUE=DATE-TIME:20250520T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1781106@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 3.27c\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php
+ ?_action=katalog2/przedmioty/pokazZajecia&gr_nr=8&zaj_cyk_id=149822\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Algorytmy dla problemów trudnych obliczeniowo
+DTSTART;VALUE=DATE-TIME:20250521T094500
+DTEND;VALUE=DATE-TIME:20250521T111500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1769354@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149361\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Systemy wbudowane
+DTSTART;VALUE=DATE-TIME:20250521T164500
+DTEND;VALUE=DATE-TIME:20250521T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1772769@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 3.24\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=3&zaj_cyk_id=149825\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Algorytmy dla problemów trudnych obliczeniowo
+DTSTART;VALUE=DATE-TIME:20250521T183000
+DTEND;VALUE=DATE-TIME:20250521T200000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1867329@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.29\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=7&zaj_cyk_id=149772\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Inżynieria oprogramowania
+DTSTART;VALUE=DATE-TIME:20250522T080000
+DTEND;VALUE=DATE-TIME:20250522T093000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1769398@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149411\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250522T150000
+DTEND;VALUE=DATE-TIME:20250522T163000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1773354@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.23\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=9&zaj_cyk_id=149731\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250526T080000
+DTEND;VALUE=DATE-TIME:20250526T093000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1727575@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149515\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Badania operacyjne
+DTSTART;VALUE=DATE-TIME:20250526T094500
+DTEND;VALUE=DATE-TIME:20250526T111500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1770983@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149382\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Badania operacyjne
+DTSTART;VALUE=DATE-TIME:20250526T164500
+DTEND;VALUE=DATE-TIME:20250526T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1727528@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 1.11\nD-2\n\nhttps://web.usos.agh.edu.pl/kontroler.php?_
+ action=katalog2/przedmioty/pokazZajecia&gr_nr=5&zaj_cyk_id=149610\n
+LOCATION:ul. Reymonta 7a\, 30-059 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Architektura komputerów
+DTSTART;VALUE=DATE-TIME:20250527T094500
+DTEND;VALUE=DATE-TIME:20250527T111500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1769275@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149378\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Inżynieria oprogramowania
+DTSTART;VALUE=DATE-TIME:20250527T150000
+DTEND;VALUE=DATE-TIME:20250527T163000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1771590@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.26B\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php
+ ?_action=katalog2/przedmioty/pokazZajecia&gr_nr=10&zaj_cyk_id=149795\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Pracownia projektowa 1
+DTSTART;VALUE=DATE-TIME:20250527T164500
+DTEND;VALUE=DATE-TIME:20250527T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1781104@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 3.27c\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php
+ ?_action=katalog2/przedmioty/pokazZajecia&gr_nr=8&zaj_cyk_id=149822\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Przetwarzanie i analiza obrazów cyfrowych
+DTSTART;VALUE=DATE-TIME:20250528T131500
+DTEND;VALUE=DATE-TIME:20250528T144500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1772594@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 112\nC-3\n\nhttps://web.usos.agh.edu.pl/kontroler.php?_a
+ ction=katalog2/przedmioty/pokazZajecia&gr_nr=2&zaj_cyk_id=149707\n
+LOCATION:al. Mickiewicza 30\, 30-059 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Systemy wbudowane
+DTSTART;VALUE=DATE-TIME:20250528T164500
+DTEND;VALUE=DATE-TIME:20250528T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1772768@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 3.24\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=3&zaj_cyk_id=149825\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Algorytmy dla problemów trudnych obliczeniowo
+DTSTART;VALUE=DATE-TIME:20250528T183000
+DTEND;VALUE=DATE-TIME:20250528T200000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1867279@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.29\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=7&zaj_cyk_id=149593\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250529T150000
+DTEND;VALUE=DATE-TIME:20250529T163000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1773353@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.23\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=9&zaj_cyk_id=149731\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250602T080000
+DTEND;VALUE=DATE-TIME:20250602T093000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1727574@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149515\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Architektura komputerów
+DTSTART;VALUE=DATE-TIME:20250603T094500
+DTEND;VALUE=DATE-TIME:20250603T111500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1769274@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149378\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Pracownia projektowa 1
+DTSTART;VALUE=DATE-TIME:20250603T164500
+DTEND;VALUE=DATE-TIME:20250603T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1781103@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 3.27c\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php
+ ?_action=katalog2/przedmioty/pokazZajecia&gr_nr=8&zaj_cyk_id=149822\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Algorytmy dla problemów trudnych obliczeniowo
+DTSTART;VALUE=DATE-TIME:20250604T094500
+DTEND;VALUE=DATE-TIME:20250604T111500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1769353@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149361\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Systemy wbudowane
+DTSTART;VALUE=DATE-TIME:20250604T164500
+DTEND;VALUE=DATE-TIME:20250604T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1772767@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 3.24\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=3&zaj_cyk_id=149825\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Algorytmy dla problemów trudnych obliczeniowo
+DTSTART;VALUE=DATE-TIME:20250604T183000
+DTEND;VALUE=DATE-TIME:20250604T200000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1867328@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.29\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=7&zaj_cyk_id=149772\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Inżynieria oprogramowania
+DTSTART;VALUE=DATE-TIME:20250605T080000
+DTEND;VALUE=DATE-TIME:20250605T093000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1769397@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149411\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250605T150000
+DTEND;VALUE=DATE-TIME:20250605T163000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1773352@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.23\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=9&zaj_cyk_id=149731\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250609T080000
+DTEND;VALUE=DATE-TIME:20250609T093000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1727573@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149515\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Architektura komputerów
+DTSTART;VALUE=DATE-TIME:20250610T094500
+DTEND;VALUE=DATE-TIME:20250610T111500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1769273@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149378\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Inżynieria oprogramowania
+DTSTART;VALUE=DATE-TIME:20250610T150000
+DTEND;VALUE=DATE-TIME:20250610T163000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1771592@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.26B\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php
+ ?_action=katalog2/przedmioty/pokazZajecia&gr_nr=10&zaj_cyk_id=149795\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Pracownia projektowa 1
+DTSTART;VALUE=DATE-TIME:20250610T164500
+DTEND;VALUE=DATE-TIME:20250610T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1781102@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 3.27c\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php
+ ?_action=katalog2/przedmioty/pokazZajecia&gr_nr=8&zaj_cyk_id=149822\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Przetwarzanie i analiza obrazów cyfrowych
+DTSTART;VALUE=DATE-TIME:20250611T131500
+DTEND;VALUE=DATE-TIME:20250611T144500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1772596@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 112\nC-3\n\nhttps://web.usos.agh.edu.pl/kontroler.php?_a
+ ction=katalog2/przedmioty/pokazZajecia&gr_nr=2&zaj_cyk_id=149707\n
+LOCATION:al. Mickiewicza 30\, 30-059 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Systemy wbudowane
+DTSTART;VALUE=DATE-TIME:20250611T164500
+DTEND;VALUE=DATE-TIME:20250611T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1772766@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 3.24\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=3&zaj_cyk_id=149825\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Algorytmy dla problemów trudnych obliczeniowo
+DTSTART;VALUE=DATE-TIME:20250611T183000
+DTEND;VALUE=DATE-TIME:20250611T200000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1867281@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.29\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=7&zaj_cyk_id=149593\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250612T150000
+DTEND;VALUE=DATE-TIME:20250612T163000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1773351@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.23\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=9&zaj_cyk_id=149731\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250616T080000
+DTEND;VALUE=DATE-TIME:20250616T093000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1727572@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149515\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Architektura komputerów
+DTSTART;VALUE=DATE-TIME:20250617T094500
+DTEND;VALUE=DATE-TIME:20250617T111500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1769272@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149378\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Pracownia projektowa 1
+DTSTART;VALUE=DATE-TIME:20250617T164500
+DTEND;VALUE=DATE-TIME:20250617T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1781101@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 3.27c\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php
+ ?_action=katalog2/przedmioty/pokazZajecia&gr_nr=8&zaj_cyk_id=149822\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Systemy wbudowane
+DTSTART;VALUE=DATE-TIME:20250618T164500
+DTEND;VALUE=DATE-TIME:20250618T181500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1772772@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 3.24\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=3&zaj_cyk_id=149825\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWP - Algorytmy dla problemów trudnych obliczeniowo
+DTSTART;VALUE=DATE-TIME:20250618T183000
+DTEND;VALUE=DATE-TIME:20250618T200000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1867331@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.29\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=7&zaj_cyk_id=149772\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWL - Systemy rozproszone
+DTSTART;VALUE=DATE-TIME:20250623T150000
+DTEND;VALUE=DATE-TIME:20250623T163000
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1773349@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: 4.23\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.php?
+ _action=katalog2/przedmioty/pokazZajecia&gr_nr=9&zaj_cyk_id=149731\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W - Architektura komputerów
+DTSTART;VALUE=DATE-TIME:20250624T094500
+DTEND;VALUE=DATE-TIME:20250624T111500
+DTSTAMP;VALUE=DATE-TIME:20250427T161301Z
+UID:sm-1769279@apps.usos.agh.edu.pl
+DESCRIPTION:Sala: on-line\nD-17\n\nhttps://web.usos.agh.edu.pl/kontroler.p
+ hp?_action=katalog2/przedmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=149378\n
+LOCATION:ul. Kawiory 21\, 30-055 Kraków\, Polska
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,44 @@
+syntax = "proto3";
+package aghevents;
+
+option java_package         = "org.example.aghevents";
+option java_multiple_files  = true;
+option java_outer_classname = "EventsProto";
+
+enum EventType {
+  CLASS_ADDED    = 0;
+  CLASS_CHANGED  = 1;
+  CLASS_REMOVED  = 2;
+}
+
+message Filter {
+  string key   = 1;
+  string value = 2;
+}
+
+message SubscriptionRequest {
+  string subscriber_id    = 1;
+  repeated Filter filters = 2;
+}
+
+message ClientMessage {
+  oneof msg {
+    SubscriptionRequest sub         = 1;
+    string              unsubscribe = 2;
+  }
+}
+
+message ClassEvent {
+  string    subscription_id = 1;
+  EventType type            = 2;
+  int64     timestamp       = 3;
+  string    uid             = 4;
+  string    summary         = 5;
+  int64     start_time      = 6;
+  int64     end_time        = 7;
+  string    location        = 8;
+}
+
+service EventService {
+  rpc Manage(stream ClientMessage) returns (stream ClassEvent);
+}

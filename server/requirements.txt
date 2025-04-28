@@ -1,0 +1,4 @@
+grpcio==1.72.0
+grpcio-tools==1.72.0
+protobuf>=3.24.0
+icalendar>=4.1
