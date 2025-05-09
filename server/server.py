@@ -10,6 +10,8 @@ INTERVAL = 3  # seconds between pushes
 
 class EventService(events_pb2_grpc.EventServiceServicer):
     def Manage(self, request_iterator, context):
+        print(f"Manage() called!")
+
         first = next(request_iterator, None)
         if not first or not first.HasField('sub'):
             context.abort(grpc.StatusCode.INVALID_ARGUMENT,
@@ -61,9 +63,9 @@ def serve():
     server = grpc.server(futures.ThreadPoolExecutor(max_workers=4))
     events_pb2_grpc.add_EventServiceServicer_to_server(
         EventService(), server)
-    server.add_insecure_port('[::]:50051')
+    server.add_insecure_port('[::]:50052')
     server.start()
-    print("gRPC server listening on 50051")
+    print("gRPC server listening on 50052")
     server.wait_for_termination()
 
 if __name__ == '__main__':

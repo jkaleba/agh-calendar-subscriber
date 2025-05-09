@@ -2,15 +2,12 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <!-- 1. Model version -->
     <modelVersion>4.0.0</modelVersion>
 
-    <!-- 2. Your coordinates -->
     <groupId>com.example</groupId>
     <artifactId>agh-calendar-subscriber-client</artifactId>
     <version>0.1.0-SNAPSHOT</version>
 
-    <!-- 3. Centralize versions -->
     <properties>
         <grpc.version>1.72.0</grpc.version>
         <protobuf.version>3.24.0</protobuf.version>
@@ -18,7 +15,6 @@
     </properties>
 
 
-    <!-- 4. Dependencies for gRPC + Protobuf -->
     <dependencies>
         <dependency>
             <groupId>io.grpc</groupId>
@@ -47,9 +43,7 @@
         </dependency>
     </dependencies>
 
-    <!-- 5. Build configuration: generate Java from .proto -->
     <build>
-        <!-- ensure the os-maven-plugin so protoc can be downloaded -->
         <extensions>
             <extension>
                 <groupId>kr.motd.maven</groupId>
@@ -73,9 +67,7 @@
                 <artifactId>protobuf-maven-plugin</artifactId>
                 <version>0.6.1</version>
                 <configuration>
-                    <!-- Where your .proto files live -->
                     <protoSourceRoot>${project.basedir}/src/main/proto</protoSourceRoot>
-                    <!-- Which protoc and grpc-java plugin to use -->
                     <protocArtifact>com.google.protobuf:protoc:${protobuf.version}:exe:${os.detected.classifier}</protocArtifact>
                     <pluginId>grpc-java</pluginId>
                     <pluginArtifact>io.grpc:protoc-gen-grpc-java:${grpc.version}:exe:${os.detected.classifier}</pluginArtifact>
